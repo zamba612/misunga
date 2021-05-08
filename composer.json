@@ -8,5 +8,10 @@
             "email": "mantemotusiaminabob@gmail.com"
         }
     ],
+    "autoload":{
+        "psr-4":{
+            "misungamembers\\":"members/"
+        }
+    },
     "require": {}
 }
