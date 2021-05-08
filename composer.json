@@ -1,2 +1,13 @@
 {
+    "name": "netas/misunga",
+    "description": "zamba fr misunga",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Mantemo",
+            "email": "mantemotusiaminabob@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
 }
